@@ -1,1 +1,2 @@
-./faladores_client/faladores_server/node_modules
+/.vscode
+/faladores_server/node_modules
