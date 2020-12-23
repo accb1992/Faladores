@@ -1,2 +1,3 @@
 /.vscode
 /faladores_server/node_modules
+/faladores_server/dist
